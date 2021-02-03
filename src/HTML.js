@@ -48,6 +48,7 @@ function sourceHasChange(oldProps, newProps) {
   );
 }
 
+
 export default class HTML extends PureComponent {
   static propTypes = {
     renderers: PropTypes.object.isRequired,

@@ -8002,7 +8002,7 @@ fsevents@~2.1.2:
     react: ^16.13.1
     react-native: ^0.63.4
     react-native-testing-library: ^2.2.0
-    react-native-webview: ^11.0.0
+    react-native-webview: ^11.2.1
     react-test-renderer: 16.13.1
     stringify-entities: ^3.1.0
     typescript: ^3.9.7
@@ -8024,15 +8024,15 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"react-native-webview@npm:^11.0.0":
-  version: 11.0.0
-  resolution: "react-native-webview@npm:11.0.0"
+"react-native-webview@npm:^11.2.1":
+  version: 11.2.1
+  resolution: "react-native-webview@npm:11.2.1"
   dependencies:
     escape-string-regexp: 2.0.0
     invariant: 2.2.4
   peerDependencies:
     react-native: ">=0.60 <0.64"
-  checksum: b8c7d199ee0f5657cb5d8af6577f2fae77798d7f8305cb822518b5f4f0ab2be1abab8b1d3c848c4acf65865dce5d98a1bf6033e4646596868f88f8095e51a899
+  checksum: e221a2c6b2d7e9d53eb765a191380e8bbb58a6450f3beb9f64c7968a1f3bd49295fec93136782144599266a59c5262d23b1e2192f475f3c99e9f9d2f8497ea68
   languageName: node
   linkType: hard
 
